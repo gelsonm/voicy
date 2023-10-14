@@ -59,25 +59,25 @@ The voice assistant will provide both text and audio responses, creating an inte
 ## Contributing
 Contributions are welcomed to enhance the functionality and capabilities of our voice assistant. To contribute, follow these steps:
 
-Fork the Project:
+1. Fork the Project:
 
-Fork the project to your own GitHub repository.
+   Fork the project to your own GitHub repository.
 
-Create a Feature Branch:
+2. Create a Feature Branch:
 
-Create a new branch for your feature or improvement: git checkout -b feature/new-feature.
+   Create a new branch for your feature or improvement: git checkout -b feature/new-feature.
 
-Commit Your Changes:
+3. Commit Your Changes:
 
-Commit your changes with a clear and concise message: git commit -m 'Add new feature'.
+   Commit your changes with a clear and concise message: git commit -m 'Add new feature'.
 
-Push Your Changes:
+4. Push Your Changes:
 
-Push your changes to your repository: git push origin feature/new-feature.
+   Push your changes to your repository: git push origin feature/new-feature.
 
-Submit a Pull Request:
+5. Submit a Pull Request:
 
-Submit a pull request to the main repository. We'll review your changes and merge them if they align with the project's goals.
+   Submit a pull request to the main repository. We'll review your changes and merge them if they align with the project's goals.
 
 ## License
 This project is licensed under the MIT License. For details, see the LICENSE file.
